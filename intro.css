@@ -23,7 +23,6 @@ header .m-3:hover{
 }
 header button{
     padding: 6px;
-    margin-right: 9px;
     border: 3px solid gold;
     border-radius: 12px;
     transition: background .4s;
